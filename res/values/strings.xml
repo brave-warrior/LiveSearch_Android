@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiveSearch</string>
+    <string name="main_title">GoEuro</string>
+    <string name="main_departure">Departure</string>
+    <string name="main_arrival">Arrival</string>
+    <string name="main_date">Date</string>
+    <string name="main_search">Search</string>
+    
+    <string name="msg_search_not_implemented">Search is not yet implemented</string>
+
+</resources>
